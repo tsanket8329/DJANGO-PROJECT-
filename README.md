@@ -33,3 +33,12 @@ Django: Backend framework used to build web applications.
 Django REST Framework: Used to build RESTful APIs that return JSON and handle CRUD operations.
 
 API Flow: Client → Django → urls.py → views.py → serializers.py → models.py → Database → JSON Response
+HTTP Methods: GET (Fetch), POST (Create), PUT (Full Update), PATCH (Partial Update), DELETE (Remove)
+
+JWT (JSON Web Token): Secures APIs using stateless token-based authentication.
+
+Redis: In-memory storage used for caching to improve performance and reduce database load.
+
+PostgreSQL: Database used to store persistent application data.
+
+In short: Django builds the backend, DRF creates APIs, JWT secures them, Redis speeds them up
