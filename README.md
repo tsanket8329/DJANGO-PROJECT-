@@ -26,3 +26,10 @@ then migrate 2 commands
 13.urls.py
 
 runserver
+
+Day 21 Python Practice
+Django: Backend framework used to build web applications.
+
+Django REST Framework: Used to build RESTful APIs that return JSON and handle CRUD operations.
+
+API Flow: Client → Django → urls.py → views.py → serializers.py → models.py → Database → JSON Response
