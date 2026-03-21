@@ -42,3 +42,6 @@ Redis: In-memory storage used for caching to improve performance and reduce data
 PostgreSQL: Database used to store persistent application data.
 
 In short: Django builds the backend, DRF creates APIs, JWT secures them, Redis speeds them up
+
+Day 22 Python Practice
+This project demonstrates how to build a secure and efficient API using Django REST Framework.
