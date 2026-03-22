@@ -68,3 +68,9 @@ Assignment operators - = += -=
 Comparison operators - ==(value) === != > < >= <=
 Logical operators - && (and), || (or), !(not)
 Unary operator - ++(increment), --(decrement) #Type Conversion
+Implicit type(Auto)- JS automatically convert datatype let result = "10"-2; document write(result);
+Explicit Type(Manual) String -> Number -Number(),parseInt(),parseFloat() Number -> String String() Boolean - Boolean() IF-ELSE let a="phone"; if(a=="phone"){ console.log("your career Done") } else { document.write("Still you have to learn DSA") }
+for i in abc: 2.for i in range(6): 3.for i in range(1,8): for(start;condition;update){
+} #For loop
+
+#while loop let i = 0; while (i < 5) { console.log(i); i++; } #do while let i = 5; do{ document.write("run once"); i++; } while(i < 3);
