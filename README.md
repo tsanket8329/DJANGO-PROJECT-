@@ -57,3 +57,14 @@ User action(click/type) -> Browser(Edge/Chrome)-> Javascript Engine-> Result on 
 Console show: Step 1: JS startedd (CTRL+ SHIFT+J)
 Pop up alert
 Page shows - document.write(Writing inside webpage) JS 1.var -old box(weak) 2 let-new box(good) 3.const-Locked box(best) Keyword - var let const Change value - yes yes no Redclare - yes no no Use = avoid use best var name= 'Ram'; var name = 'Shyam'; console.log(name); // Output: Shyam let name= 'Ram'; let name = 'Shyam'; console.log(name);#output - error let name= 'Ram'; name = 'Shyam'; console.log(name); const name= 'Ram'; const name = 'Shyam'; console.log(name);#output - error const name= 'Ram'; console.log(name);#output -Ram #DATATYPES IN JS
+Numbers -10,20,3.5,-7 2.String- 'Muskan' 3.Boolean - True/ false
+undefined - empty(let city;)
+Null - deliberately empty(list city=null)
+object - used to store multiple values
+const person = { name:'Muskan' age: 20 city:'Jharkhand' }
+console.log(typeof 10); "hello" true undefined null #Operators
+Arithmetic operators - + - * / %
+Assignment operators - = += -=
+Comparison operators - ==(value) === != > < >= <=
+Logical operators - && (and), || (or), !(not)
+Unary operator - ++(increment), --(decrement) #Type Conversion
