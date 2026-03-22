@@ -52,3 +52,8 @@ Day 23 Python Practice
 
 <script> function sayHello() { alert("Hello! JS is working"); } sayHello(); </script>
 User action(click/type) -> Browser(Edge/Chrome)-> Javascript Engine-> Result on screen HTML - Show content CSS = Decorates content Javascript - Control content Backend:- Output statement
+
+
+Console show: Step 1: JS startedd (CTRL+ SHIFT+J)
+Pop up alert
+Page shows - document.write(Writing inside webpage) JS 1.var -old box(weak) 2 let-new box(good) 3.const-Locked box(best) Keyword - var let const Change value - yes yes no Redclare - yes no no Use = avoid use best var name= 'Ram'; var name = 'Shyam'; console.log(name); // Output: Shyam let name= 'Ram'; let name = 'Shyam'; console.log(name);#output - error let name= 'Ram'; name = 'Shyam'; console.log(name); const name= 'Ram'; const name = 'Shyam'; console.log(name);#output - error const name= 'Ram'; console.log(name);#output -Ram #DATATYPES IN JS
