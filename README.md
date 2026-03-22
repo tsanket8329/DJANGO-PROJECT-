@@ -46,3 +46,9 @@ In short: Django builds the backend, DRF creates APIs, JWT secures them, Redis s
 Day 22 Python Practice
 This project demonstrates how to build a secure and efficient API using Django REST Framework.
 It includes pagination to handle large datasets, filtering and ordering to fetch required records, and JWT authentication to secure API access. Additionally, it introduces Redis for fast in-memory data handling and performance optimization.
+
+Day 23 Python Practice
+#Javascript
+
+<script> function sayHello() { alert("Hello! JS is working"); } sayHello(); </script>
+User action(click/type) -> Browser(Edge/Chrome)-> Javascript Engine-> Result on screen HTML - Show content CSS = Decorates content Javascript - Control content Backend:- Output statement
